@@ -26,7 +26,7 @@ Na Cconnect, acreditamos que cada projeto é uma oportunidade de transformar ide
 
 Se você está interessado em nossos serviços ou deseja discutir um projeto, não hesite em entrar em contato!
 
-- **Website**: [www.empresa.cconnectpro.com.br](http://www.empresa.cconnectpro.com.br)
+- **Website**: [empresa.cconnectpro.com.br](https://empresa.cconnectpro.com.br)
 
 ## Contribuições
 
