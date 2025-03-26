@@ -16,17 +16,9 @@ Na Cconnect, acreditamos que cada projeto é uma oportunidade de transformar ide
 
 ## Tecnologias Utilizadas
 
-- HTML, CSS, JavaScript, PHP e Python
-- Frameworks: React, Angular, Vue.js, Laravel 
-- Backend: Node.js, PHP
-- Banco de Dados: MongoDB, MySQL, PostgreSQL
-- Ferramentas de Versionamento: Git
-
-## Como Entrar em Contato
-
-Se você está interessado em nossos serviços ou deseja discutir um projeto, não hesite em entrar em contato!
-
-- **Website**: [empresa.cconnectpro.com.br](https://empresa.cconnectpro.com.br)
+- HTML, CSS, JavaScript, PHP
+- Backend: PHP
+- Banco de Dados: MongoDBe MySQL
 
 ## Contribuições
 
